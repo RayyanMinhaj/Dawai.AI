@@ -1,0 +1,21 @@
+Medicine,Quantity,shelf,aisle
+Panadol,100,1,1
+Augmentin,50,1,2
+Ciprofloxacin,70,1,2
+Atorvastatin,30,2,1
+Omeprazole,20,2,2
+Metformin,60,2,3
+Aspirin,90,3,1
+Salbutamol Inhaler,40,3,2
+Amlodipine,25,3,3
+Amoxicillin,55,4,1
+Metronidazole,45,4,2
+Ibuprofen,80,4,3
+Gliclazide,35,5,1
+Losartan,15,5,2
+Montelukast,10,5,3
+Vitamin C,45,6,1
+Levocetirizine,25,6,2
+Erythromycin,35,6,3
+Atenolol,50,7,1
+Codeine,25,7,2
